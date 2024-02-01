@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Lab Proposal Document
-[//]: # (parent: Labs)
+title: testing
+parent: Labs
 ---
 # Lab Name
 _Enter the name of your lab here._
